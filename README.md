@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on - Frontend and Android projects🙂
-- 🌱 I’m currently learning React✨
+- 🌱 I’m currently learning React✨/Flutter🐱‍💻
 - 👯 I’m looking to collaborate on - Opensource Contributions🛒
 - 🤔 I’m looking for help with - Not yet decided😅
 - 💬 Ask me about - Interesting Opensource Stuff😁
