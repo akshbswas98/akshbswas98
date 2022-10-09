@@ -9,5 +9,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aakash-biswas-7a48a21b8/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun qoute: 
-![](https://quotier.vercel.app/quote)
+- 
+- ![](https://quotier.vercel.app/quote)
 
