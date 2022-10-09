@@ -8,7 +8,7 @@
 - 💬 Ask me about - Interesting Opensource Stuff😁
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aakash-biswas-7a48a21b8/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun qoute: 
-- 
+- ⚡ Fun quote: 
+
 - ![](https://quotier.vercel.app/quote)
 
