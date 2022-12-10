@@ -10,5 +10,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun quote: 
 
-- ![](https://quotier.vercel.app/quote)
+ ![](https://quotier.vercel.app/quote)
 
