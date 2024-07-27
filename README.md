@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hi 👋! My name is  Akash Biswas and I'm a  Backend Engineer working in professional projects and keen to keep learning more from Kolkata,India.</h3>
+<h3 align="left">Hi 👋! My name is  Akash Biswas and I'm a  Backend Engineer working in professional projects and keen to keep learning more Each day.</h3>
 
 ###
 
